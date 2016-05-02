@@ -71,8 +71,6 @@
   <allow-intent href="geo:*"/>
   <access origin="maxcdn.bootstrapcdn.com/" launch-external="yes"  />
   <access origin="http://192.99.150.52" launch-external="yes"  />
-  <allow-navigation href="http://maxcdn.bootstrapcdn.com/" subdomains="true">
-  <allow-navigation href="http://192.99.150.52" subdomains="true">
   <access origin="*"/>
   <platform name="android">
     <allow-intent href="market:*"/>

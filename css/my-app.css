@@ -115,7 +115,7 @@ border-left:0px;
 .list-block li{
        background-color: #170f11; 
 
-}
+}22
 i.fa.fa-rss {
 color:#c2970d;
 }
@@ -146,5 +146,6 @@ color:#129881;
 }
 #logobasico{
     vertical-align: bottom;
-    margin-top: 25%;
+    margin-top: 30%;
+    width: 70%
 }
